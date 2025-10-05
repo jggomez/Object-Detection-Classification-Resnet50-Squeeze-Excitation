@@ -105,6 +105,8 @@ The Grad-CAM algorithm
 References:
 - https://keras.io/examples/vision/grad_cam/
 - https://www.pinecone.io/learn/class-activation-maps/
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1709.01507)
+- [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1512.03385)
 
 ### **Conclusions**
 
